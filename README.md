@@ -20,7 +20,9 @@ Notebooks downloaden und in jupyterlab laden.
 
 [RStudio installieren](https://rstudio.com/products/rstudio/download/)
 
-Die Notebooks anklicken und den `R` Code markieren. Dann den Code kopiere, in RStudio einfügen und dort ausführen.
+Die Notebooks anklicken und den `R` Code markieren. 
+
+Dann den Code kopieren, in RStudio einfügen und dort ausführen.
 
 
 
