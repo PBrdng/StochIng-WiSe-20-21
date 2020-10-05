@@ -11,11 +11,13 @@ Material für den Kurs [Höhere Mathematik IV: Stochastik für Ingenieure](https
 
 [IRkernel installieren](https://github.com/IRkernel/IRkernel)
 
-Notebooks downloaden und in jupyerlab laden.
+Notebooks downloaden und in jupyterlab laden.
 
 
 ## Möglichkeit 2
 
 Notebooks online ausführen: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/PBrdng/StochIng-WiSe-20-21/main)
 
-(Notebooks online ausführen ist deutlich langsamer als lokal wie in Möglichkeit 1. Ausserdem funktioniert `rtweet` in Notebook 4 nicht.)
+Notebooks online ausführen ist langsamer als lokal (wie in Möglichkeit 1). 
+
+Ausserdem funktioniert Notebook 4 nicht.
