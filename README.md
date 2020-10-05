@@ -20,7 +20,7 @@ Notebooks downloaden und in jupyterlab laden.
 
 [RStudio installieren](https://rstudio.com/products/rstudio/download/)
 
-Die Notebooks anklicken und den `R` Code markieren, kopieren und in RStudio einfügen und dort ausführen.
+Die Notebooks anklicken und den `R` Code markieren. Dann den Code kopiere, in RStudio einfügen und dort ausführen.
 
 
 
@@ -28,6 +28,6 @@ Die Notebooks anklicken und den `R` Code markieren, kopieren und in RStudio einf
 
 Notebooks online ausführen: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/PBrdng/StochIng-WiSe-20-21/main)
 
-Notebooks online ausführen ist langsamer als lokal (wie in Möglichkeit 1). 
+Notebooks online ausführen ist langsamer als lokal (wie in Möglichkeiten 1 und 2). 
 
 Ausserdem funktioniert Notebook 4 nicht.
