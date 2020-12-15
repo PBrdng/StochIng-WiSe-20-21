@@ -4,6 +4,7 @@ Material für den Kurs [Höhere Mathematik IV: Stochastik für Ingenieure](https
 
 Die [Vorlesung](https://www.youtube.com/playlist?list=PLIIRjhhOmUg9GPqUfvdhS0fU6XJ_b7YxT) und [Lösungen von Übungsaufgaben](https://www.youtube.com/playlist?list=PLIIRjhhOmUg8jyt5kQQpSBhHkLqykpnhJ) sind auf Youtube verfügbar.
 
+## Jupyter Notebooks
 
 Dieses Repository enthält zudem die [Jupyter Notebooks](https://github.com/PBrdng/StochIng-WiSe-20-21/tree/main/Notebooks) aus der Vorlesung.
 Es gibt zwei Möglichkeiten die Notebooks zu verwenden.
@@ -21,3 +22,52 @@ Notebooks downloaden und in jupyterlab laden.
 [RStudio installieren](https://rstudio.com/products/rstudio/download/)
 
 Die Notebooks in Github öffnen, den `R` Code kopieren, in RStudio einfügen und dort ausführen.
+
+
+Folien der Vorlesung sind im Github Repo
+
+https://github.com/PBrdng/StochIng-WiSe-20-21
+
+
+## Inhalt:
+
+#### Vorlesung 1:
+Grundbegriffe in der deskriptiven Statistik
+Stichprobe
+Merkmale
+Beobachtungen
+
+#### Vorlesung 2:
+Häufigkeitsverteilungen
+Balkendiagramm
+Stabdiagramm
+Histogramm
+empirische Verteilungsfunktion
+
+#### Vorlesung 3:
+Rangwerte
+Quantile
+Quartile
+Median
+Mittelwert
+Spannweite
+Standardabweichung
+Varianz
+Boxplots
+
+#### Vorlesung 4:
+Wahrscheinlichkeitsraum
+Wahrscheinlichkeitsmass
+frequentistischer/Bayes'scher Wahrscheinlichkeitsbegriff
+Venn-Diagramm
+Endlicher/diskreter Wahrscheinlichkeitsraum
+Gleichverteilung
+
+#### Vorlesung 5:
+Urnenmodell
+
+#### Vorlesung 6:
+Bedingte Wahrscheinlichkeit
+Satz von Bayes
+Stochastische Unabhängigkeit
+Binomialverteilung
