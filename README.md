@@ -31,7 +31,9 @@ Dann den Code kopieren, in RStudio einfügen und dort ausführen.
 
 #### Möglichkeit 3
 
-Notebooks online ausführen: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/PBrdng/StochIng-WiSe-20-21/main/Notebooks)
+Notebooks online ausführen: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/PBrdng/StochIng-WiSe-20-21/main)
+
+[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/PBrdng/StochIng-WiSe-20-21/main/Notebooks)
 
 Notebooks online ausführen ist langsamer als lokal (wie in Möglichkeiten 1 und 2).
 
