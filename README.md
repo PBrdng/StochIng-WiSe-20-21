@@ -6,7 +6,7 @@ Die [Vorlesung](https://www.youtube.com/playlist?list=PLIIRjhhOmUg9GPqUfvdhS0fU6
 
 ## Jupyter Notebooks
 
-Dieses Repository enthält zudem die [Jupyter Notebooks](https://github.com/PBrdng/StochIng-WiSe-20-21/tree/main/Notebooks) aus der Vorlesung.
+Dieses Repository enthält zudem die [Jupyter Notebooks](https://github.com/PBrdng/StochIng-WiSe-20-21/tree/main/Notebooks) aus der Vorlesung.<br>
 Es gibt zwei Möglichkeiten die Notebooks zu verwenden.
 
 
@@ -32,42 +32,42 @@ https://github.com/PBrdng/StochIng-WiSe-20-21
 ## Inhalt:
 
 #### Vorlesung 1:
-Grundbegriffe in der deskriptiven Statistik
-Stichprobe
-Merkmale
+Grundbegriffe in der deskriptiven Statistik<br>
+Stichprobe<br>
+Merkmale<br>
 Beobachtungen
 
 #### Vorlesung 2:
-Häufigkeitsverteilungen
-Balkendiagramm
-Stabdiagramm
-Histogramm
+Häufigkeitsverteilungen<br>
+Balkendiagramm<br>
+Stabdiagramm<br>
+Histogramm<br>
 empirische Verteilungsfunktion
 
 #### Vorlesung 3:
-Rangwerte
-Quantile
-Quartile
-Median
-Mittelwert
-Spannweite
-Standardabweichung
-Varianz
+Rangwerte<br>
+Quantile<br>
+Quartile<br>
+Median<br>
+Mittelwert<br>
+Spannweite<br>
+Standardabweichung<br>
+Varianz<br>
 Boxplots
 
 #### Vorlesung 4:
-Wahrscheinlichkeitsraum
-Wahrscheinlichkeitsmass
-frequentistischer/Bayes'scher Wahrscheinlichkeitsbegriff
-Venn-Diagramm
-Endlicher/diskreter Wahrscheinlichkeitsraum
+Wahrscheinlichkeitsraum<br>
+Wahrscheinlichkeitsmass<br>
+frequentistischer/Bayes'scher Wahrscheinlichkeitsbegriff<br>
+Venn-Diagramm<br>
+Endlicher/diskreter Wahrscheinlichkeitsraum<br>
 Gleichverteilung
 
 #### Vorlesung 5:
-Urnenmodell
+Urnenmodell<br>
 
 #### Vorlesung 6:
-Bedingte Wahrscheinlichkeit
-Satz von Bayes
-Stochastische Unabhängigkeit
+Bedingte Wahrscheinlichkeit<br>
+Satz von Bayes<br>
+Stochastische Unabhängigkeit<br>
 Binomialverteilung
