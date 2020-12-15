@@ -10,11 +10,7 @@ Dieses Repository enthält zudem die [Jupyter Notebooks](https://github.com/PBrd
 
 #### Möglichkeit 1
 
-[R installieren](https://www.r-project.org)
-
-[jupyterlab installieren](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html)
-
-[IRkernel installieren](https://github.com/IRkernel/IRkernel)
+(1) [R installieren](https://www.r-project.org) (2) [jupyterlab installieren](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html) (3) [IRkernel installieren](https://github.com/IRkernel/IRkernel)
 
 Notebooks downloaden und in jupyterlab laden.
 
@@ -23,6 +19,4 @@ Notebooks downloaden und in jupyterlab laden.
 
 [RStudio installieren](https://rstudio.com/products/rstudio/download/)
 
-Die Notebooks anklicken und den `R` Code markieren.
-
-Dann den Code kopieren, in RStudio einfügen und dort ausführen.
+Die Notebooks in Github öffnen, den `R` Code kopieren, in RStudio einfügen und dort ausführen.
