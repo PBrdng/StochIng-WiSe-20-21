@@ -5,7 +5,7 @@ Material für den Kurs [Höhere Mathematik IV: Stochastik für Ingenieure](https
 Die [Vorlesung](https://www.youtube.com/playlist?list=PLIIRjhhOmUg9GPqUfvdhS0fU6XJ_b7YxT) und [Lösungen von Übungsaufgaben](https://www.youtube.com/playlist?list=PLIIRjhhOmUg8jyt5kQQpSBhHkLqykpnhJ) sind auf Youtube verfügbar.
 
 
-Dieses Repository enthält zudem die Jupyter Notebooks aus der Vorlesung. Es gibt zwei Möglichkeiten die Notebooks zu verwenden.
+Dieses Repository enthält zudem die [Jupyter Notebooks](https://github.com/PBrdng/StochIng-WiSe-20-21/tree/main/Notebooks) aus der Vorlesung. Es gibt zwei Möglichkeiten die Notebooks zu verwenden.
 
 
 #### Möglichkeit 1
