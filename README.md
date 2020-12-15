@@ -12,21 +12,15 @@ Es gibt zwei Möglichkeiten die Notebooks zu verwenden.
 
 #### Möglichkeit 1
 
-(1) [R installieren](https://www.r-project.org) (2) [jupyterlab installieren](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html) (3) [IRkernel installieren](https://github.com/IRkernel/IRkernel)
-
+(1) [R installieren](https://www.r-project.org) (2) [jupyterlab installieren](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html) (3) [IRkernel installieren](https://github.com/IRkernel/IRkernel)<br>
 Notebooks downloaden und in jupyterlab laden.
 
 
 #### Möglichkeit 2
 
-[RStudio installieren](https://rstudio.com/products/rstudio/download/)
-
+[RStudio installieren](https://rstudio.com/products/rstudio/download/)<br>
 Die Notebooks in Github öffnen, den `R` Code kopieren, in RStudio einfügen und dort ausführen.
 
-
-Folien der Vorlesung sind im Github Repo
-
-https://github.com/PBrdng/StochIng-WiSe-20-21
 
 
 ## Inhalt:
