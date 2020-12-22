@@ -65,3 +65,12 @@ Bedingte Wahrscheinlichkeit<br>
 Satz von Bayes<br>
 Stochastische Unabhängigkeit<br>
 Binomialverteilung
+
+#### Vorlesung 7:
+Endliche und diskrete Zufallsvariablen
+Verteilung einer Zufallsvariable
+Gleichverteilung
+Binomialverteilung
+Geometrische Verteilung
+Hypergeometrische Verteilung
+Poission Verteilung
