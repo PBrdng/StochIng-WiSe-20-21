@@ -73,4 +73,11 @@ Gleichverteilung
 Binomialverteilung
 Geometrische Verteilung
 Hypergeometrische Verteilung
-Poission Verteilung
+Poisson Verteilung
+
+#### Vorlesung 8:
+Unabhängigkeit von Zufallsvariablen
+Verteilungsfunktion einer Zufallsvariable
+Erwartungswert
+Varianz
+Gesetz der grossen Zahlen
