@@ -81,3 +81,12 @@ Verteilungsfunktion einer Zufallsvariable
 Erwartungswert
 Varianz
 Gesetz der grossen Zahlen
+
+#### Vorlesung 9:
+Stetige Zufallsvariablen
+Gleichverteilung
+Normalverteilung
+Exponentialverteilung
+t-Verteilung
+Chi-Quadrat-Verteilung
+Standardisierung
