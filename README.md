@@ -67,7 +67,7 @@ Stochastische Unabhängigkeit<br>
 Binomialverteilung
 
 #### Vorlesung 7:
-Endliche und diskrete Zufallsvariablen
+Endliche und diskrete Zufallsvariablen<br>
 Verteilung einer Zufallsvariable<br>
 Gleichverteilung<br>
 Binomialverteilung<br>
