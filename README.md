@@ -68,25 +68,25 @@ Binomialverteilung
 
 #### Vorlesung 7:
 Endliche und diskrete Zufallsvariablen
-Verteilung einer Zufallsvariable
-Gleichverteilung
-Binomialverteilung
-Geometrische Verteilung
-Hypergeometrische Verteilung
+Verteilung einer Zufallsvariable<br>
+Gleichverteilung<br>
+Binomialverteilung<br>
+Geometrische Verteilung<br>
+Hypergeometrische Verteilung<br>
 Poisson Verteilung
 
 #### Vorlesung 8:
-Unabhängigkeit von Zufallsvariablen
-Verteilungsfunktion einer Zufallsvariable
-Erwartungswert
-Varianz
+Unabhängigkeit von Zufallsvariablen<br>
+Verteilungsfunktion einer Zufallsvariable<br>
+Erwartungswert<br>
+Varianz<br>
 Gesetz der grossen Zahlen
 
 #### Vorlesung 9:
-Stetige Zufallsvariablen
-Gleichverteilung
-Normalverteilung
-Exponentialverteilung
-t-Verteilung
-Chi-Quadrat-Verteilung
+Stetige Zufallsvariablen<br>
+Gleichverteilung<br>
+Normalverteilung<br>
+Exponentialverteilung<br>
+t-Verteilung<br>
+Chi-Quadrat-Verteilung<br>
 Standardisierung
