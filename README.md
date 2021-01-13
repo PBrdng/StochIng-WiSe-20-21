@@ -90,3 +90,13 @@ Exponentialverteilung<br>
 t-Verteilung<br>
 Chi-Quadrat-Verteilung<br>
 Standardisierung
+
+#### Vorlesung 10:
+Statistische Tests<br>
+Null-Hypothese und Alternativhypothese<br>
+Teststatistik<br>
+Signifikanzniveau<br>
+Quantile von Verteilungen<br>
+p-Wert<br>
+Gauss-Test<br>
+t-Test
