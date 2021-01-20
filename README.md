@@ -100,3 +100,11 @@ Quantile von Verteilungen<br>
 p-Wert<br>
 Gauss-Test<br>
 t-Test
+
+#### Vorlesung 11:
+Schätzer<br>
+Erwartungstreue<br>
+Bias<br>
+Risiko/Mean Squared Error<br>
+Maximum-Likelihood<br>
+Konfidenzintervalle
