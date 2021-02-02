@@ -108,3 +108,12 @@ Bias<br>
 Risiko/Mean Squared Error<br>
 Maximum-Likelihood<br>
 Konfidenzintervalle
+
+#### Vorlesung 12:
+Lineare Regression<br>
+Methode der kleinsten Quadrate<br>
+Least-Squares-Schätzer<br>
+Korrelation<br>
+Kovarianz<br>
+R^2-Wert<br>
+Residual-Plot
